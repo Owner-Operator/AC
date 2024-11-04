@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "name": "AC",
+      "path": ".."
+    },
+    {
+      "name": "images",
+      "path": "../../../Desktop/images"
+    },
+    {
+      "name": "Dev",
+      "path": "../../Dev"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "AC"
+  }
+}
